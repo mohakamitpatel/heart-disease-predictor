@@ -28,11 +28,10 @@
 ## 🗂️ Project Structure
 
 ```bash
-heart-disease-predictor/
-│
-├── data/                    # CSV dataset
-├── heart_disease_app.py     # Streamlit web app
-├── model.py                 # ML training pipeline
-├── heart_model.pkl          # Saved ML model
-├── requirements.txt         # Project dependencies
-└── README.md                # You’re here!
+📂 heart-disease-predictor
+ ├── 📁 data/               # Dataset folder
+ ├── 🧠 model.py            # Model training code
+ ├── 🗂️ heart_model.pkl      # Saved machine learning model
+ ├── 🌐 heart_disease_app.py # Streamlit application
+ ├── 📜 requirements.txt    # Required Python packages
+ └── 📘 README.md           # Project documentation
