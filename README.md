@@ -29,7 +29,7 @@
 
 ```bash
 📂 heart-disease-predictor
- ├── 📁 data/               # Dataset folder
+ ├── 📁 data               # Dataset folder
  ├── 🧠 model.py            # Model training code
  ├── 🗂️ heart_model.pkl      # Saved machine learning model
  ├── 🌐 heart_disease_app.py # Streamlit application
