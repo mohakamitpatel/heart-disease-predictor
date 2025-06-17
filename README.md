@@ -1,9 +1,7 @@
 # 🫀 Heart Disease Predictor
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)](https://streamlit.io/)
 [![Model Accuracy](https://img.shields.io/badge/Model%20Accuracy-85%25-green)]()
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 > 🎯 Predict the likelihood of heart disease using clinical data and machine learning.
 
