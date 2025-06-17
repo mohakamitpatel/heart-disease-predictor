@@ -130,4 +130,4 @@ You are free to use, modify, and share this code for personal or academic purpos
 
 ---
 
-> Created with ❤️ by [Your Name or GitHub Username]
+✌️ Peace out. Built with code, not caffeine — Mohak
