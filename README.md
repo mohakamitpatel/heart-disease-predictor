@@ -30,10 +30,11 @@
 ```
 📂 heart-disease-predictor
  ├── 📁 data/                # Dataset folder (heart.csv)
+ ├── 📁 asset/               # Contains Demo Thumbnail
  ├── 🧠 model.py             # Script to train and save the model
  ├── 🧪 evaluation.py        # Evaluation metrics and confusion matrix
  ├── 🧠 heart_disease_app.py # Command-line prediction script
- ├── 🗂️ heart_model.pkl       # Trained ML model
+ ├── 🗂️ heart_model.pkl      # Trained ML model
  ├── 📜 requirements.txt     # Python dependencies
  └── 📘 README.md            # Project overview and instructions
 ```
