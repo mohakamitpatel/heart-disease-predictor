@@ -9,7 +9,7 @@
 
 ## 📸 Demo Preview
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=n2kXr99IVzU)
+[![Watch the video](assets/Screenshot 2025-06-18 190147.png)](https://www.youtube.com/watch?v=n2kXr99IVzU)
 
 > 🔧 Predict heart disease risk right from your terminal in under 2 minutes!
 
