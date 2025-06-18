@@ -9,7 +9,7 @@
 
 ## 📸 Demo Preview
 
-[![Watch the video](assets/Screenshot 2025-06-18 190147.png)](https://www.youtube.com/watch?v=n2kXr99IVzU)
+[![Watch the video](https://github.com/mohakamitpatel/heart-disease-predictor/blob/main/assets/Screenshot%202025-06-18%20190147.png)](https://www.youtube.com/watch?v=n2kXr99IVzU)
 
 > 🔧 Predict heart disease risk right from your terminal in under 2 minutes!
 
