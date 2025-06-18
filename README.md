@@ -9,7 +9,7 @@
 
 ## 📸 Demo Preview
 
-![Terminal Demo]([https://via.placeholder.com/800x400.png?text=Terminal+Prediction+Demo](https://youtu.be/n2kXr99IVzU))
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=n2kXr99IVzU)
 
 > 🔧 Predict heart disease risk right from your terminal in under 2 minutes!
 
